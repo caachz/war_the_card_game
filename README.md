@@ -8,7 +8,6 @@ This game has two players already input into the system. Once the game has begun
 My learning goal in this project was to understand the fundementals of Java programming. 
   * I learned what an integrated evelopent environment was and how to use it.
   * I learned how to use a statically typed language.
-    * One example was when I needed to declare not only the type of object the Array itself was but also the type of objects it would hold. 
   * I learned what the main method is and how to use it in a development environment. 
 
 ## To set this up locally
